@@ -1,13 +1,9 @@
-# Secret Project 🤫
+# Project X  (;
 
-This is my secret project. Don't tell anyone!
+This is my secret project
 
-## The Secret
-I found this strange code somewhere:
-
-CSC_BZU{g1t_hub_0s1nt_m4st3r}
-
-What could it mean? 🤔
+## Status
+Working on it...
 
 ---
 Created by: flag-hunter-x
